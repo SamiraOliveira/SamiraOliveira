@@ -1,5 +1,5 @@
 ### Olá, eu sou a Samira 👋
- Eu tenho 18 anos, moro em Mauá e atualmente sou estudante de Tecnologia da Informação, cursando Informática p/ Internet na ETEC Maria Cristina Medeiros. Sou comunicativa e Prática. Com esse perfil, minha intenção é mostrar os projetos feitos nesse curso. Conheça alguns dos temas trabalhados no curso:                       
+ Eu tenho 19 anos, moro em Mauá e atualmente sou estudante de Tecnologia da Informação, cursando Informática p/ Internet na ETEC Maria Cristina Medeiros. Sou comunicativa e Prática. Com esse perfil, minha intenção é mostrar os projetos feitos nesse curso. Conheça alguns dos temas trabalhados no curso:                       
 
 - 💻HTML;
 - ✨CSS;
